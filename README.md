@@ -1,6 +1,6 @@
 # Ecommerce Store
 
-This is an example store for the Ecommerce Admin Dashboard. If you just want to see it, you can fint it [here](https://korean-store.vercel.app/).
+This is an example store for the Ecommerce Admin Dashboard repository. If you just want to see it, you can find it [here](https://korean-store.vercel.app/).
 If you want to test it or create your own example store, keep reading.
 
 ## Getting Started
