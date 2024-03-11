@@ -55,9 +55,6 @@ Follow these steps to test the app on your local machine.
 - Next.js
 - TypeScript
 - HeadlessUI
-- Prisma + MySQL
-- Planet Scale
-- Stripe
 
 ## Contributing
 Feel free to contribute to this project! You can open issues for bugs or suggestions and submit pull requests to improve the app.
